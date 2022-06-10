@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459692998624",
+    "project_id": "sos-pet-58553",
+    "storage_bucket": "sos-pet-58553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459692998624:android:f2af09623b6d881dadf585",
+        "android_client_info": {
+          "package_name": "com.example.sos_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459692998624-4f4dkpcmj1rjo31vs7vr1hredjdkl1ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm817NXmEKMpmPDuP3EGTd2XkIxqbhQLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459692998624-4f4dkpcmj1rjo31vs7vr1hredjdkl1ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
